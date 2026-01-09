@@ -1,5 +1,5 @@
-# Data-Science-Portfolio
-Hi! TThis repository contains selected coursework and research projects related to **data science, machine learning, and data analysis**. The goal of this portfolio is to document my technical work, problem-solving process, and applied experience across different domains.
+# Data Science Portfolio
+Hi! This repository contains selected coursework and research projects related to **data science, machine learning, and data analysis**. The goal of this portfolio is to document my technical work, problem-solving process, and applied experience across different domains.
 
 ## Course work
 
