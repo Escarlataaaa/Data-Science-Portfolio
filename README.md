@@ -12,7 +12,7 @@ Hi! This repository contains selected coursework and research projects related t
 
 ## Tools & Technologies
 
-- **Languages:** Python, SQL, R  
+- **Languages:** Python
 - **Data & ML:** Pandas, NumPy, scikit-learn  
 - **Visualization:** Matplotlib, Seaborn  
 - **Other:** Git, Jupyter Notebooks
